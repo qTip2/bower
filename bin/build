@@ -29,7 +29,7 @@ exec('grunt --dist="'+relative+'" --stable', function() {
 			"description": json.description,
 			"version": json.version,
 			"homepage": "http://qtip2.com",
-			"location": "https://github.com/arrayjam/bower-qtip2/",
+			"location": "https://github.com/qTip2/bower",
 			"repository": json.repository,
 			"authors": [ json.author ],
 			"license": json.licenses.map(function(license) { return license.type }),

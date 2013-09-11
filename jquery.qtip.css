@@ -6,7 +6,7 @@
  * Released under the MIT, GPL licenses
  * http://jquery.org/license
  *
- * Date: Wed Sep 11 2013 10:51 GMT+0100+0100
+ * Date: Wed Sep 11 2013 11:17 GMT+0100+0100
  * Plugins: tips modal viewport svg imagemap ie6
  * Styles: basic css3
  */
