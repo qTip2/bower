@@ -6,7 +6,7 @@
     "location": "https://github.com/qTip2/bower",
     "repository": {
         "type": "git",
-        "url": "git://github.com/Craga89/qTip2.git"
+        "url": "git://github.com/qTip2/qTip2.git"
     },
     "authors": [
         {
